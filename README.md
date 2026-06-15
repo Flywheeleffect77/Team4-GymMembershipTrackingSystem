@@ -28,3 +28,5 @@ A fitness center system designed to track up to 25 gym member records, managing 
 * Search results matching a Member ID
 * Full membership record list
 * Summary report with totals by status
+
+* Alicia Espana added the document: Section 1 – Project Understanding and Planning (Alicia Espana)
