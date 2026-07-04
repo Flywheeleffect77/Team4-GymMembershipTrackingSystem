@@ -6,12 +6,12 @@
 
 ### Team Members and Roles
 
-| Team Member | Role |
+| Team Member  | Role |
 |--------------|----------------------------|
-| Student 1 | Team Leader / Documentation |
-| Student 2 | Function Stub Developer |
-| Student 3 | Function Stub Developer |
-| Student 4 | GitHub Manager / Report Editor |
+| Espana, Alicia | Team Leader / Documentation |
+| Rodriguez, David | Function Stub Developer |
+| Cervavntes, Juan | Phase 2 Report PDF |
+| De La Rosa, Kevin | GitHub Manager / Report Editor |
 
 ---
 
@@ -51,7 +51,7 @@ Our GitHub workflow will include:
 
 ### Communication
 
-Our team will communicate using a group chat and schedule meetings when needed.
+Our team will communicate using the Whatsapp group chat and provide the necessary updates.
 
 ### Task Assignment
 
@@ -59,7 +59,7 @@ Each member is responsible for completing their assigned tasks and committing th
 
 ### Conflict Resolution
 
-Any disagreements will be discussed respectfully. If needed, the team leader will make the final decision.
+Any differnces will be discussed respectfully. If needed, the team leader will make the final decision.
 
 ### Deadlines
 
