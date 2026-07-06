@@ -3,7 +3,7 @@ Gym Membership Tracking System - Function Stubs
 Team Members: David Rodriguez, Alicia Espana, Juan Cervantes, and Kevin De La Rosa
 Course: Introduction to Programming
 Date: 7/5/2026
-""
+"""
 
 def add_record(records):
     """
